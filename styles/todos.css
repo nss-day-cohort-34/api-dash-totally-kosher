@@ -1,3 +1,7 @@
+body {
+  background-color: aqua;
+}
+
 #todoItems {
   display: flex;
   justify-content: space-around;
@@ -6,6 +10,6 @@
 }
 
 .todo__item {
-  width: 23%;
+  flex-basis: 23%;
   border: 2px solid slateblue;
 }
