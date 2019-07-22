@@ -1,0 +1,11 @@
+#todoItems {
+  display: flex;
+  justify-content: space-around;
+  flex-flow: row wrap;
+  align-items: center;
+}
+
+.todo__item {
+  width: 23%;
+  border: 2px solid slateblue;
+}
