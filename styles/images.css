@@ -1,0 +1,14 @@
+body {
+   background-color: aqua 
+}
+
+.sectionStyle {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.imgStyle {
+flex-basis: 19%
+
+}
