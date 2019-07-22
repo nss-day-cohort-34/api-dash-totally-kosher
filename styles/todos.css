@@ -1,0 +1,15 @@
+body {
+  background-color: aqua;
+}
+
+#todoItems {
+  display: flex;
+  justify-content: space-around;
+  flex-flow: row wrap;
+  align-items: center;
+}
+
+.todo__item {
+  flex-basis: 23%;
+  border: 2px solid slateblue;
+}
